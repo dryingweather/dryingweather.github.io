@@ -2,17 +2,11 @@
 * All
   - Check colours
   - Fonts
-  - Fix menu and social media conflicts buttons colliding
   - Cull unneeded code to make lighter
-  - Remove option to click logo
   - Add website domain
-  - Releases section use Spotify or Bandcamp
-  - Add social media links
 
   
 * Mobile
-  - Get releases to shrink for small screen size
-  - Band photo above description 
 
 
 * Media we need
