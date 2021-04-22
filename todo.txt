@@ -1,17 +1,15 @@
 
 * All
-  - Check colours
-  - Fonts
-  - Cull unneeded code to make lighter
-  - Add website domain
 
+* After publishing tracks
+  Update YouTube and Spotify links in header and about section
+  Add video link to papaya whip
+  Add track links to papaya whip
   
 * Mobile
 
 
 * Media we need
-  - Better title image for main page - use band image of towers?
-  - Band picture
 
 
 
