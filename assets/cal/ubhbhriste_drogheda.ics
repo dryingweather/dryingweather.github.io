@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Europe/London
+LAST-MODIFIED:20231222T233358Z
+TZURL:https://www.tzurl.org/zoneinfo-outlook/Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZNAME:BST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:GMT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20240211T170418Z
+UID:1707669954880-21522@ical.marudot.com
+DTSTART;TZID=Europe/London:20240330T200000
+DTEND;TZID=Europe/London:20240330T230000
+SUMMARY:Foot Squeaker & Drying Weather @ The Watchtower/McHugh's Drogheda (Ubh Bhriste Tour 2024)
+URL:https://bandsintown.com/e/105163593?came_from=297&utm_medium=web&utm_source=copy_link&utm_campaign=event_social_share
+DESCRIPTION:Admission: €5 on the door. Dublin acoustic fuzz merchants Drying Weather & Gorey alt-rockers Foot Squeaker live at The Watchtower (McHugh's)\, plus special guest Ashley Abbedeen of hotgirl.
+LOCATION:McHugh's\, 1-3 Cord Rd\, East Drogheda\, Drogheda\, Co. Louth\, A92 E2NK
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Foot Squeaker & Drying Weather @ The Watchtower/McHugh's Drogheda (Ubh Bhriste Tour 2024)
+TRIGGER:-P1W
+END:VALARM
+END:VEVENT
+END:VCALENDAR
