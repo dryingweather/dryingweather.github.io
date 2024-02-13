@@ -23,19 +23,19 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240211T170438Z
-UID:1707670220367-52886@ical.marudot.com
-DTSTART;TZID=Europe/London:20240331T200000
-DTEND;TZID=Europe/London:20240331T230000
-SUMMARY:Foot Squeaker & Drying Weather @ The American Bar Belfast (Ubh Bhriste Tour 2024)
-URL:https://bandsintown.com/e/105163596?came_from=297&utm_medium=web&utm_source=copy_link&utm_campaign=event_social_share
+DTSTAMP:20240212T195404Z
+UID:1707670610729-42157@ical.marudot.com
+DTSTART;TZID=Europe/London:20240413T200000
+DTEND;TZID=Europe/London:20240413T230000
+SUMMARY:Foot Squeaker & Drying Weather @ Bennigan's Derry (Ubh Bhriste Tour 2024)
+URL:https://bandsintown.com/e/105163602?came_from=297&utm_medium=web&utm_source=copy_link&utm_campaign=event_social_share
 DESCRIPTION:Admission: £5 on the door. Dublin acoustic fuzz merchants Drying Weather & Gorey alt-rockers Foot Squeaker live at The American Bar\, plus special guests TBA.
-LOCATION:The American Bar\, 65 Dock St\, Belfast BT15 1LF\, United Kingdom
-TRANSP:OPAQUE
+LOCATION:Bennigans Bar\, 13 John St\, Londonderry BT48 6JY\, United Kingdom
+TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Foot Squeaker & Drying Weather @ The American Bar Belfast (Ubh Bhriste Tour 2024)
+DESCRIPTION:Foot Squeaker & Drying Weather @ Bennigan's Derry (Ubh Bhriste Tour 2024)
 TRIGGER:-P1W
 END:VALARM
 END:VEVENT
